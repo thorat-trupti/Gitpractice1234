@@ -8,7 +8,12 @@ public class SpringbootCrud1Application {
 
 	public static void main(String[] args) {
 		System.out.println("This is springboot Curd1234");
+<<<<<<< HEAD
 		System.out.println("practice stash");
+=======
+		System.out.println("This is springboot Curd");
+		
+>>>>>>> stash
 		SpringApplication.run(SpringbootCrud1Application.class, args);
 	}
 
